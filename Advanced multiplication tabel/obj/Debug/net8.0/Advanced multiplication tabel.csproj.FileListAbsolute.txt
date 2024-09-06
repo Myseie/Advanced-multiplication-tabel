@@ -1,0 +1,14 @@
+D:\Programmering\Programmering\Advanced multiplication tabel\bin\Debug\net8.0\Advanced multiplication tabel.exe
+D:\Programmering\Programmering\Advanced multiplication tabel\bin\Debug\net8.0\Advanced multiplication tabel.deps.json
+D:\Programmering\Programmering\Advanced multiplication tabel\bin\Debug\net8.0\Advanced multiplication tabel.runtimeconfig.json
+D:\Programmering\Programmering\Advanced multiplication tabel\bin\Debug\net8.0\Advanced multiplication tabel.dll
+D:\Programmering\Programmering\Advanced multiplication tabel\bin\Debug\net8.0\Advanced multiplication tabel.pdb
+D:\Programmering\Programmering\Advanced multiplication tabel\obj\Debug\net8.0\Advanced multiplication tabel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmering\Programmering\Advanced multiplication tabel\obj\Debug\net8.0\Advanced multiplication tabel.AssemblyInfoInputs.cache
+D:\Programmering\Programmering\Advanced multiplication tabel\obj\Debug\net8.0\Advanced multiplication tabel.AssemblyInfo.cs
+D:\Programmering\Programmering\Advanced multiplication tabel\obj\Debug\net8.0\Advanced multiplication tabel.csproj.CoreCompileInputs.cache
+D:\Programmering\Programmering\Advanced multiplication tabel\obj\Debug\net8.0\Advanced multiplication tabel.dll
+D:\Programmering\Programmering\Advanced multiplication tabel\obj\Debug\net8.0\refint\Advanced multiplication tabel.dll
+D:\Programmering\Programmering\Advanced multiplication tabel\obj\Debug\net8.0\Advanced multiplication tabel.pdb
+D:\Programmering\Programmering\Advanced multiplication tabel\obj\Debug\net8.0\Advanced multiplication tabel.genruntimeconfig.cache
+D:\Programmering\Programmering\Advanced multiplication tabel\obj\Debug\net8.0\ref\Advanced multiplication tabel.dll
